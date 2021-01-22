@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # <p align="center"> App Leia Mais
 
 <p align="center">
@@ -33,3 +34,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> develop
+=======
+# app_leia_mais
+Um aplicativo onde poderá encontrar una lista dos melhores livros de cada categoria para o seu entreterimento.
+>>>>>>> a4f2c01b602f71fcc07ee7c44d39422a1e09b963
