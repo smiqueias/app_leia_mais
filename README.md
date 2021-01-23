@@ -6,7 +6,7 @@
 
 </p>
 
-Um aplicativo onde poderá encontrar una lista dos melhores livros de cada categoria para o seu entreterimento.
+Um aplicativo onde poderá encontrar uma lista dos melhores livros de cada categoria para o seu entreterimento.
 
 ## Tecnologias Utilizadas
 - Dart
